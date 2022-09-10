@@ -26,8 +26,7 @@ int main(void)
 				putchar((digit3 % 10) + '0');
 
 				if (digit1 == 7 && digit2 == 8 && digit3 == 9)
-					continue;
-				
+				continue;
 				putchar(',');
 				putchar(' ');
 			}
