@@ -3,7 +3,6 @@
  * Auth: Samson Ajulor
  */
 
-#include <stdio.h>
 #include "main.h"
 
 /**
