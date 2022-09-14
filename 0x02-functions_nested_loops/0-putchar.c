@@ -1,7 +1,7 @@
 /*
  * File: 0-putchar.c
  * Auth: Samson Ajulor
- * 
+ *
  */
 
 #include "main.h"
