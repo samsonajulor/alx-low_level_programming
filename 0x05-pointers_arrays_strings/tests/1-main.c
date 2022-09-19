@@ -8,11 +8,13 @@
  */
 int main(void)
 {
-	char c;
+	int a;
+	int b;
 
-	c = '0';
-	printf("%c: %d\n", c, _isdigit(c));
-	c = 'a';
-	printf("%c: %d\n", c, _isdigit(c));
+	a = 98;
+	b = 42;
+	printf("a=%d, b=%d\n", a, b);
+	swap_int(&a, &b);
+	printf("a=%d, b=%d\n", a, b);
 	return (0);
 }
