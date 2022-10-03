@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_chessboard - check the code for Holberton School students.
+ * print_chessboard - check the code.
  * @a: 8x8 chessboard array
  * Return: Always 0.
  */

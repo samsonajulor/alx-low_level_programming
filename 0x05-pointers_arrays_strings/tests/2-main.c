@@ -11,7 +11,7 @@ int main(void)
 	char *str;
 	int len;
 
-	str = "Holberton!";
+	str = "ALX!";
 	len = _strlen(str);
 	printf("%d\n", len);
 	return (0);

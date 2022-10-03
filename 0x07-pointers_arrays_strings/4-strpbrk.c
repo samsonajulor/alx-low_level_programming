@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strpbrk - check the code for Holberton School students.
+ * _strpbrk - check the code.
  * @s: The array to be searched
  * @accept: Target bytes from searching
  * Return: Always 0.

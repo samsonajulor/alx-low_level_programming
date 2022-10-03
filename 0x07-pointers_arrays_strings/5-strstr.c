@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * _strstr - check the code for Holberton School students.
+ * _strstr - check the code.
  * @haystack: Array to be searched
  * @needle: Target string
  * Return: Always 0.

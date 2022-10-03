@@ -80,4 +80,4 @@ the differences between the two as well as how to use and manipulate strings in 
 
 * **11. Don't hate the hacker, hate the code**
   * [101-keygen.c](./101-keygen.c): C program that generates random valid passwords
-  for the program [101-crackme](https://github.com/holbertonschool/0x04.c).
+  for the program.

@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * print_diagsums - check the code for Holberton School students.
+ * print_diagsums - check the code.
  * @a: Multidimensional array
  * @size: Size of array
  * Return: Always 0.

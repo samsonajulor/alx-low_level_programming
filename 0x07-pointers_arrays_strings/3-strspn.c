@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strspn - check the code for Holberton School students.
+ * _strspn - check the code.
  * @s: Array for scanning
  * @accept: Characters to search for
  * Return: Always 0.

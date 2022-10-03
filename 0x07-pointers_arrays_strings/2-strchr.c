@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strchr - check the code for Holberton School students.
+ * _strchr - check the code.
  * @s: The array to be searched
  * @c: The character being searched
  * Return: Always 0.
