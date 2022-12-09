@@ -9,7 +9,7 @@
  * returns the beginning of the linked list. If not enough memory,
  * returns NULL. Otherwise returns the position of the newly created node
  * This is significant, as we want to print all elements of this list in
- * order from beginning to end
+ * order from beginning to last
  */
 dlistint_t *add_dnodeint_end(dlistint_t **head, const int n)
 {

@@ -5,7 +5,7 @@
  * in the linked list
  * @head: The passed in linked list
  * @index: The position of the desired node
- * Return: The desired node, if it exists. Otherwise, NULL
+ * Return: The desired node, if it exists. Otherwise, NULL/NOTHING
  */
 dlistint_t *get_dnodeint_at_index(dlistint_t *head, unsigned int index)
 {

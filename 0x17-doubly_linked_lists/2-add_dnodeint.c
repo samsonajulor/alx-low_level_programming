@@ -5,7 +5,7 @@
  * beginning of a linked list. Complete with setting prev and next
  * @head: Holds the address to a node in the linked list
  * @n: Value to be added to the new node
- * Return: The newly created node, or NULL if not enough memory
+ * Return: The newly created node, or NULL if not enough
  */
 dlistint_t *add_dnodeint(dlistint_t **head, const int n)
 {
